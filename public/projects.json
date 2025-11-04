@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Number Plate Detection",
+    "short": "End-to-end ANPR system: plate localization, OCR, and country-format parsing; robust to angle/lighting.",
+    "tech": ["OpenCV", "YOLO/SSD", "Tesseract / CRNN", "Python", "Flask (demo)"],
+    "link": "<project-link-or-github>",
+    "github": ""
+  },
+  {
+    "title": "Image Generator",
+    "short": "Generative model that creates high-quality images from textual prompts and style inputs.",
+    "tech": ["PyTorch", "Diffusion models", "Hugging Face transformers", "Gradio demo"],
+    "link": "<project-link-or-github>",
+    "github": ""
+  },
+  {
+    "title": "Voice Translator",
+    "short": "Real-time speech-to-speech translator: ASR -> translation -> TTS pipeline with low latency.",
+    "tech": ["Whisper ASR", "Marian / fairseq", "Tacotron2 or FastSpeech", "Docker"],
+    "link": "<project-link-or-github>",
+    "github": ""
+  },
+  {
+    "title": "Fake Login Page Detection",
+    "short": "Browser-extension/back-end service that analyzes page structure and content to flag phishing/fake login pages.",
+    "tech": ["JavaScript", "heuristics + ML classifier", "dataset-based evaluation"],
+    "link": "<project-link-or-github>",
+    "github": ""
+  },
+  {
+    "title": "Theft Detection Using Database",
+    "short": "Multi-modal theft-detection system combining CCTV analytics and inventory DB reconciliation to flag anomalies.",
+    "tech": ["OpenCV", "object tracking (DeepSORT)", "SQL/NoSQL", "alerting via webhook"],
+    "link": "<project-link-or-github>",
+    "github": ""
+  }
+]
